@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<architecture-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<record>
+	<id>81</id>
+	<code>1C2C3C4C</code>
+	<architecture>Distributed / Cluster Hybrid</architecture>
+	<num_web>4</num_web>
+	<num_db>1</num_db>
+	<num_stor>1</num_stor>
+	<num_cache>1</num_cache>
+	<web_core>8</web_core>
+	<web_mem>16</web_mem>
+	<web_disk>40</web_disk>
+	<db_core>16</db_core>
+	<db_mem>32</db_mem>
+	<db_disk>80</db_disk>
+	<stor_core>4</stor_core>
+	<stor_mem>8</stor_mem>
+	<stor_disk>2000</stor_disk>
+	<cache_core>2</cache_core>
+	<cache_mem>8</cache_mem>
+	<cache_disk>20</cache_disk>
+	<notes></notes>
+</record>
+
+<record>
+	<id>81</id>
+	<code>1C2C3C4C</code>
+	<architecture>Distributed / Cluster Hybrid</architecture>
+	<num_web>4</num_web>
+	<num_db>1</num_db>
+	<num_stor>1</num_stor>
+	<num_cache>1</num_cache>
+	<web_core>8</web_core>
+	<web_mem>16</web_mem>
+	<web_disk>40</web_disk>
+	<db_core>16</db_core>
+	<db_mem>32</db_mem>
+	<db_disk>80</db_disk>
+	<stor_core>4</stor_core>
+	<stor_mem>8</stor_mem>
+	<stor_disk>2000</stor_disk>
+	<cache_core>2</cache_core>
+	<cache_mem>8</cache_mem>
+	<cache_disk>20</cache_disk>
+	<notes></notes>
+</record>
+
+</architecture-data>
